@@ -1,0 +1,23 @@
+# Python cache files
+__pycache__/
+*.pyc
+
+# VS Code settings
+.vscode/
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Environment files
+.env
+*.env
+
+# Model artifacts or logs
+*.h5
+*.pt
+*.ckpt
+logs/
+
+# OS files
+.DS_Store
+Thumbs.db
